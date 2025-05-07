@@ -22,5 +22,4 @@ A responsive web application to manage course registrations efficiently within a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/online-course-registration.git
-   cd online-course-registration
+   git clone edit your url after clone ~jo
