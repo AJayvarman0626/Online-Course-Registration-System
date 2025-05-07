@@ -18,7 +18,7 @@ const HomeComponent = () => {
               type="button"
               onClick={() => {
                 window.open(
-                  "xyz"
+                  "https://github.com/AJayvarman0626/Online-Course-Registration-System"
                 );
               }}
             >
